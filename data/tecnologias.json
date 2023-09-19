@@ -1,0 +1,708 @@
+{
+    "data": [
+      {
+        "id": 1,
+        "attributes": {
+          "nombre": "JavaScript",
+          "createdAt": "2023-09-04T12:24:54.520Z",
+          "updatedAt": "2023-09-04T12:24:58.740Z",
+          "publishedAt": "2023-09-04T12:24:58.531Z",
+          "imagen": {
+            "data": {
+              "id": 3,
+              "attributes": {
+                "name": "javascript.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 344,
+                "height": 390,
+                "formats": {
+                  "thumbnail": {
+                    "ext": ".png",
+                    "url": "https://res.cloudinary.com/dypujlrm2/image/upload/v1693830286/thumbnail_javascript_9de67bb6c3.png",
+                    "hash": "thumbnail_javascript_9de67bb6c3",
+                    "mime": "image/png",
+                    "name": "thumbnail_javascript.png",
+                    "path": null,
+                    "size": 8.55,
+                    "width": 138,
+                    "height": 156,
+                    "provider_metadata": {
+                      "public_id": "thumbnail_javascript_9de67bb6c3",
+                      "resource_type": "image"
+                    }
+                  }
+                },
+                "hash": "javascript_9de67bb6c3",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 3.78,
+                "url": "https://res.cloudinary.com/dypujlrm2/image/upload/v1693830286/javascript_9de67bb6c3.png",
+                "previewUrl": null,
+                "provider": "cloudinary",
+                "provider_metadata": {
+                  "public_id": "javascript_9de67bb6c3",
+                  "resource_type": "image"
+                },
+                "createdAt": "2023-09-04T12:24:47.771Z",
+                "updatedAt": "2023-09-04T12:24:47.771Z"
+              }
+            }
+          }
+        }
+      },
+      {
+        "id": 2,
+        "attributes": {
+          "nombre": "HTML",
+          "createdAt": "2023-09-04T12:25:35.119Z",
+          "updatedAt": "2023-09-04T12:25:39.435Z",
+          "publishedAt": "2023-09-04T12:25:39.230Z",
+          "imagen": {
+            "data": {
+              "id": 4,
+              "attributes": {
+                "name": "html5.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 256,
+                "height": 256,
+                "formats": {
+                  "thumbnail": {
+                    "ext": ".png",
+                    "url": "https://res.cloudinary.com/dypujlrm2/image/upload/v1693830325/thumbnail_html5_80b222bd13.png",
+                    "hash": "thumbnail_html5_80b222bd13",
+                    "mime": "image/png",
+                    "name": "thumbnail_html5.png",
+                    "path": null,
+                    "size": 9.52,
+                    "width": 156,
+                    "height": 156,
+                    "provider_metadata": {
+                      "public_id": "thumbnail_html5_80b222bd13",
+                      "resource_type": "image"
+                    }
+                  }
+                },
+                "hash": "html5_80b222bd13",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 1.79,
+                "url": "https://res.cloudinary.com/dypujlrm2/image/upload/v1693830325/html5_80b222bd13.png",
+                "previewUrl": null,
+                "provider": "cloudinary",
+                "provider_metadata": {
+                  "public_id": "html5_80b222bd13",
+                  "resource_type": "image"
+                },
+                "createdAt": "2023-09-04T12:25:26.732Z",
+                "updatedAt": "2023-09-04T12:25:26.732Z"
+              }
+            }
+          }
+        }
+      },
+      {
+        "id": 3,
+        "attributes": {
+          "nombre": "CSS",
+          "createdAt": "2023-09-04T12:26:10.073Z",
+          "updatedAt": "2023-09-04T12:26:13.905Z",
+          "publishedAt": "2023-09-04T12:26:13.761Z",
+          "imagen": {
+            "data": {
+              "id": 5,
+              "attributes": {
+                "name": "CSS.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 800,
+                "height": 1129,
+                "formats": {
+                  "large": {
+                    "ext": ".png",
+                    "url": "https://res.cloudinary.com/dypujlrm2/image/upload/v1693830361/large_CSS_2d6cb696d8.png",
+                    "hash": "large_CSS_2d6cb696d8",
+                    "mime": "image/png",
+                    "name": "large_CSS.png",
+                    "path": null,
+                    "size": 77.36,
+                    "width": 709,
+                    "height": 1000,
+                    "provider_metadata": {
+                      "public_id": "large_CSS_2d6cb696d8",
+                      "resource_type": "image"
+                    }
+                  },
+                  "small": {
+                    "ext": ".png",
+                    "url": "https://res.cloudinary.com/dypujlrm2/image/upload/v1693830361/small_CSS_2d6cb696d8.png",
+                    "hash": "small_CSS_2d6cb696d8",
+                    "mime": "image/png",
+                    "name": "small_CSS.png",
+                    "path": null,
+                    "size": 31.9,
+                    "width": 354,
+                    "height": 500,
+                    "provider_metadata": {
+                      "public_id": "small_CSS_2d6cb696d8",
+                      "resource_type": "image"
+                    }
+                  },
+                  "medium": {
+                    "ext": ".png",
+                    "url": "https://res.cloudinary.com/dypujlrm2/image/upload/v1693830361/medium_CSS_2d6cb696d8.png",
+                    "hash": "medium_CSS_2d6cb696d8",
+                    "mime": "image/png",
+                    "name": "medium_CSS.png",
+                    "path": null,
+                    "size": 54.12,
+                    "width": 531,
+                    "height": 750,
+                    "provider_metadata": {
+                      "public_id": "medium_CSS_2d6cb696d8",
+                      "resource_type": "image"
+                    }
+                  },
+                  "thumbnail": {
+                    "ext": ".png",
+                    "url": "https://res.cloudinary.com/dypujlrm2/image/upload/v1693830361/thumbnail_CSS_2d6cb696d8.png",
+                    "hash": "thumbnail_CSS_2d6cb696d8",
+                    "mime": "image/png",
+                    "name": "thumbnail_CSS.png",
+                    "path": null,
+                    "size": 9.1,
+                    "width": 111,
+                    "height": 156,
+                    "provider_metadata": {
+                      "public_id": "thumbnail_CSS_2d6cb696d8",
+                      "resource_type": "image"
+                    }
+                  }
+                },
+                "hash": "CSS_2d6cb696d8",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 10.22,
+                "url": "https://res.cloudinary.com/dypujlrm2/image/upload/v1693830361/CSS_2d6cb696d8.png",
+                "previewUrl": null,
+                "provider": "cloudinary",
+                "provider_metadata": {
+                  "public_id": "CSS_2d6cb696d8",
+                  "resource_type": "image"
+                },
+                "createdAt": "2023-09-04T12:26:03.201Z",
+                "updatedAt": "2023-09-04T12:26:03.201Z"
+              }
+            }
+          }
+        }
+      },
+      {
+        "id": 5,
+        "attributes": {
+          "nombre": "MongoDB",
+          "createdAt": "2023-09-04T12:27:28.614Z",
+          "updatedAt": "2023-09-04T12:27:33.545Z",
+          "publishedAt": "2023-09-04T12:27:33.341Z",
+          "imagen": {
+            "data": {
+              "id": 7,
+              "attributes": {
+                "name": "Mongodb.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 256,
+                "height": 256,
+                "formats": {
+                  "thumbnail": {
+                    "ext": ".png",
+                    "url": "https://res.cloudinary.com/dypujlrm2/image/upload/v1693830437/thumbnail_Mongodb_ab5b24cd65.png",
+                    "hash": "thumbnail_Mongodb_ab5b24cd65",
+                    "mime": "image/png",
+                    "name": "thumbnail_Mongodb.png",
+                    "path": null,
+                    "size": 6.92,
+                    "width": 156,
+                    "height": 156,
+                    "provider_metadata": {
+                      "public_id": "thumbnail_Mongodb_ab5b24cd65",
+                      "resource_type": "image"
+                    }
+                  }
+                },
+                "hash": "Mongodb_ab5b24cd65",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 2.28,
+                "url": "https://res.cloudinary.com/dypujlrm2/image/upload/v1693830437/Mongodb_ab5b24cd65.png",
+                "previewUrl": null,
+                "provider": "cloudinary",
+                "provider_metadata": {
+                  "public_id": "Mongodb_ab5b24cd65",
+                  "resource_type": "image"
+                },
+                "createdAt": "2023-09-04T12:27:18.747Z",
+                "updatedAt": "2023-09-04T12:27:18.747Z"
+              }
+            }
+          }
+        }
+      },
+      {
+        "id": 6,
+        "attributes": {
+          "nombre": "Vue",
+          "createdAt": "2023-09-04T12:28:03.663Z",
+          "updatedAt": "2023-09-04T12:28:07.773Z",
+          "publishedAt": "2023-09-04T12:28:07.597Z",
+          "imagen": {
+            "data": {
+              "id": 8,
+              "attributes": {
+                "name": "Vue.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 593,
+                "height": 512,
+                "formats": {
+                  "small": {
+                    "ext": ".png",
+                    "url": "https://res.cloudinary.com/dypujlrm2/image/upload/v1693830476/small_Vue_2d272d9f28.png",
+                    "hash": "small_Vue_2d272d9f28",
+                    "mime": "image/png",
+                    "name": "small_Vue.png",
+                    "path": null,
+                    "size": 24.55,
+                    "width": 500,
+                    "height": 432,
+                    "provider_metadata": {
+                      "public_id": "small_Vue_2d272d9f28",
+                      "resource_type": "image"
+                    }
+                  },
+                  "thumbnail": {
+                    "ext": ".png",
+                    "url": "https://res.cloudinary.com/dypujlrm2/image/upload/v1693830476/thumbnail_Vue_2d272d9f28.png",
+                    "hash": "thumbnail_Vue_2d272d9f28",
+                    "mime": "image/png",
+                    "name": "thumbnail_Vue.png",
+                    "path": null,
+                    "size": 6.35,
+                    "width": 181,
+                    "height": 156,
+                    "provider_metadata": {
+                      "public_id": "thumbnail_Vue_2d272d9f28",
+                      "resource_type": "image"
+                    }
+                  }
+                },
+                "hash": "Vue_2d272d9f28",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 4.06,
+                "url": "https://res.cloudinary.com/dypujlrm2/image/upload/v1693830476/Vue_2d272d9f28.png",
+                "previewUrl": null,
+                "provider": "cloudinary",
+                "provider_metadata": {
+                  "public_id": "Vue_2d272d9f28",
+                  "resource_type": "image"
+                },
+                "createdAt": "2023-09-04T12:27:57.804Z",
+                "updatedAt": "2023-09-04T12:27:57.804Z"
+              }
+            }
+          }
+        }
+      },
+      {
+        "id": 7,
+        "attributes": {
+          "nombre": "Vuetify",
+          "createdAt": "2023-09-04T12:28:34.829Z",
+          "updatedAt": "2023-09-04T12:28:39.055Z",
+          "publishedAt": "2023-09-04T12:28:38.919Z",
+          "imagen": {
+            "data": {
+              "id": 9,
+              "attributes": {
+                "name": "vuetify.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 263,
+                "height": 300,
+                "formats": {
+                  "thumbnail": {
+                    "ext": ".png",
+                    "url": "https://res.cloudinary.com/dypujlrm2/image/upload/v1693830508/thumbnail_vuetify_34c91df86c.png",
+                    "hash": "thumbnail_vuetify_34c91df86c",
+                    "mime": "image/png",
+                    "name": "thumbnail_vuetify.png",
+                    "path": null,
+                    "size": 7.68,
+                    "width": 137,
+                    "height": 156,
+                    "provider_metadata": {
+                      "public_id": "thumbnail_vuetify_34c91df86c",
+                      "resource_type": "image"
+                    }
+                  }
+                },
+                "hash": "vuetify_34c91df86c",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 3.27,
+                "url": "https://res.cloudinary.com/dypujlrm2/image/upload/v1693830508/vuetify_34c91df86c.png",
+                "previewUrl": null,
+                "provider": "cloudinary",
+                "provider_metadata": {
+                  "public_id": "vuetify_34c91df86c",
+                  "resource_type": "image"
+                },
+                "createdAt": "2023-09-04T12:28:29.798Z",
+                "updatedAt": "2023-09-04T12:28:29.798Z"
+              }
+            }
+          }
+        }
+      },
+      {
+        "id": 8,
+        "attributes": {
+          "nombre": "React",
+          "createdAt": "2023-09-04T12:29:28.981Z",
+          "updatedAt": "2023-09-04T12:29:32.977Z",
+          "publishedAt": "2023-09-04T12:29:32.788Z",
+          "imagen": {
+            "data": {
+              "id": 10,
+              "attributes": {
+                "name": "React.webp",
+                "alternativeText": null,
+                "caption": null,
+                "width": 512,
+                "height": 512,
+                "formats": {
+                  "small": {
+                    "ext": ".webp",
+                    "url": "https://res.cloudinary.com/dypujlrm2/image/upload/v1693830562/small_React_54774eddfe.webp",
+                    "hash": "small_React_54774eddfe",
+                    "mime": "image/webp",
+                    "name": "small_React.webp",
+                    "path": null,
+                    "size": 29.39,
+                    "width": 500,
+                    "height": 500,
+                    "provider_metadata": {
+                      "public_id": "small_React_54774eddfe",
+                      "resource_type": "image"
+                    }
+                  },
+                  "thumbnail": {
+                    "ext": ".webp",
+                    "url": "https://res.cloudinary.com/dypujlrm2/image/upload/v1693830561/thumbnail_React_54774eddfe.webp",
+                    "hash": "thumbnail_React_54774eddfe",
+                    "mime": "image/webp",
+                    "name": "thumbnail_React.webp",
+                    "path": null,
+                    "size": 7,
+                    "width": 156,
+                    "height": 156,
+                    "provider_metadata": {
+                      "public_id": "thumbnail_React_54774eddfe",
+                      "resource_type": "image"
+                    }
+                  }
+                },
+                "hash": "React_54774eddfe",
+                "ext": ".webp",
+                "mime": "image/webp",
+                "size": 12.68,
+                "url": "https://res.cloudinary.com/dypujlrm2/image/upload/v1693830562/React_54774eddfe.webp",
+                "previewUrl": null,
+                "provider": "cloudinary",
+                "provider_metadata": {
+                  "public_id": "React_54774eddfe",
+                  "resource_type": "image"
+                },
+                "createdAt": "2023-09-04T12:29:23.637Z",
+                "updatedAt": "2023-09-04T12:29:23.637Z"
+              }
+            }
+          }
+        }
+      },
+      {
+        "id": 9,
+        "attributes": {
+          "nombre": "NextJS",
+          "createdAt": "2023-09-04T12:30:27.576Z",
+          "updatedAt": "2023-09-04T12:30:31.277Z",
+          "publishedAt": "2023-09-04T12:30:31.070Z",
+          "imagen": {
+            "data": {
+              "id": 11,
+              "attributes": {
+                "name": "Next.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 300,
+                "height": 181,
+                "formats": {
+                  "thumbnail": {
+                    "ext": ".png",
+                    "url": "https://res.cloudinary.com/dypujlrm2/image/upload/v1693830611/thumbnail_Next_7959caddf2.png",
+                    "hash": "thumbnail_Next_7959caddf2",
+                    "mime": "image/png",
+                    "name": "thumbnail_Next.png",
+                    "path": null,
+                    "size": 5.22,
+                    "width": 245,
+                    "height": 148,
+                    "provider_metadata": {
+                      "public_id": "thumbnail_Next_7959caddf2",
+                      "resource_type": "image"
+                    }
+                  }
+                },
+                "hash": "Next_7959caddf2",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 2.29,
+                "url": "https://res.cloudinary.com/dypujlrm2/image/upload/v1693830611/Next_7959caddf2.png",
+                "previewUrl": null,
+                "provider": "cloudinary",
+                "provider_metadata": {
+                  "public_id": "Next_7959caddf2",
+                  "resource_type": "image"
+                },
+                "createdAt": "2023-09-04T12:30:13.318Z",
+                "updatedAt": "2023-09-04T12:30:13.318Z"
+              }
+            }
+          }
+        }
+      },
+      {
+        "id": 10,
+        "attributes": {
+          "nombre": "Tailwind",
+          "createdAt": "2023-09-04T12:31:14.552Z",
+          "updatedAt": "2023-09-04T12:31:19.075Z",
+          "publishedAt": "2023-09-04T12:31:18.872Z",
+          "imagen": {
+            "data": {
+              "id": 12,
+              "attributes": {
+                "name": "tailwind.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 512,
+                "height": 307,
+                "formats": {
+                  "small": {
+                    "ext": ".png",
+                    "url": "https://res.cloudinary.com/dypujlrm2/image/upload/v1693830666/small_tailwind_a0c5ae45f0.png",
+                    "hash": "small_tailwind_a0c5ae45f0",
+                    "mime": "image/png",
+                    "name": "small_tailwind.png",
+                    "path": null,
+                    "size": 49.21,
+                    "width": 500,
+                    "height": 300,
+                    "provider_metadata": {
+                      "public_id": "small_tailwind_a0c5ae45f0",
+                      "resource_type": "image"
+                    }
+                  },
+                  "thumbnail": {
+                    "ext": ".png",
+                    "url": "https://res.cloudinary.com/dypujlrm2/image/upload/v1693830666/thumbnail_tailwind_a0c5ae45f0.png",
+                    "hash": "thumbnail_tailwind_a0c5ae45f0",
+                    "mime": "image/png",
+                    "name": "thumbnail_tailwind.png",
+                    "path": null,
+                    "size": 16.47,
+                    "width": 245,
+                    "height": 147,
+                    "provider_metadata": {
+                      "public_id": "thumbnail_tailwind_a0c5ae45f0",
+                      "resource_type": "image"
+                    }
+                  }
+                },
+                "hash": "tailwind_a0c5ae45f0",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 9.44,
+                "url": "https://res.cloudinary.com/dypujlrm2/image/upload/v1693830666/tailwind_a0c5ae45f0.png",
+                "previewUrl": null,
+                "provider": "cloudinary",
+                "provider_metadata": {
+                  "public_id": "tailwind_a0c5ae45f0",
+                  "resource_type": "image"
+                },
+                "createdAt": "2023-09-04T12:31:08.289Z",
+                "updatedAt": "2023-09-04T12:31:08.289Z"
+              }
+            }
+          }
+        }
+      },
+      {
+        "id": 11,
+        "attributes": {
+          "nombre": "Bootstrap",
+          "createdAt": "2023-09-04T12:31:50.583Z",
+          "updatedAt": "2023-09-04T12:31:54.638Z",
+          "publishedAt": "2023-09-04T12:31:54.432Z",
+          "imagen": {
+            "data": {
+              "id": 13,
+              "attributes": {
+                "name": "Bootstrap.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 355,
+                "height": 356,
+                "formats": {
+                  "thumbnail": {
+                    "ext": ".png",
+                    "url": "https://res.cloudinary.com/dypujlrm2/image/upload/v1693830702/thumbnail_Bootstrap_dde1dde9eb.png",
+                    "hash": "thumbnail_Bootstrap_dde1dde9eb",
+                    "mime": "image/png",
+                    "name": "thumbnail_Bootstrap.png",
+                    "path": null,
+                    "size": 14.39,
+                    "width": 156,
+                    "height": 156,
+                    "provider_metadata": {
+                      "public_id": "thumbnail_Bootstrap_dde1dde9eb",
+                      "resource_type": "image"
+                    }
+                  }
+                },
+                "hash": "Bootstrap_dde1dde9eb",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 13.63,
+                "url": "https://res.cloudinary.com/dypujlrm2/image/upload/v1693830702/Bootstrap_dde1dde9eb.png",
+                "previewUrl": null,
+                "provider": "cloudinary",
+                "provider_metadata": {
+                  "public_id": "Bootstrap_dde1dde9eb",
+                  "resource_type": "image"
+                },
+                "createdAt": "2023-09-04T12:31:44.206Z",
+                "updatedAt": "2023-09-04T12:31:44.206Z"
+              }
+            }
+          }
+        }
+      },
+      {
+        "id": 12,
+        "attributes": {
+          "nombre": "NodeJs",
+          "createdAt": "2023-09-04T17:20:48.966Z",
+          "updatedAt": "2023-09-04T17:20:53.279Z",
+          "publishedAt": "2023-09-04T17:20:53.075Z",
+          "imagen": {
+            "data": {
+              "id": 16,
+              "attributes": {
+                "name": "nodeJs.png",
+                "alternativeText": null,
+                "caption": null,
+                "width": 1901,
+                "height": 2048,
+                "formats": {
+                  "large": {
+                    "ext": ".png",
+                    "url": "https://res.cloudinary.com/dypujlrm2/image/upload/v1693848043/large_node_Js_73e9a38652.png",
+                    "hash": "large_node_Js_73e9a38652",
+                    "mime": "image/png",
+                    "name": "large_nodeJs.png",
+                    "path": null,
+                    "size": 94.11,
+                    "width": 928,
+                    "height": 1000,
+                    "provider_metadata": {
+                      "public_id": "large_node_Js_73e9a38652",
+                      "resource_type": "image"
+                    }
+                  },
+                  "small": {
+                    "ext": ".png",
+                    "url": "https://res.cloudinary.com/dypujlrm2/image/upload/v1693848043/small_node_Js_73e9a38652.png",
+                    "hash": "small_node_Js_73e9a38652",
+                    "mime": "image/png",
+                    "name": "small_nodeJs.png",
+                    "path": null,
+                    "size": 40.55,
+                    "width": 464,
+                    "height": 500,
+                    "provider_metadata": {
+                      "public_id": "small_node_Js_73e9a38652",
+                      "resource_type": "image"
+                    }
+                  },
+                  "medium": {
+                    "ext": ".png",
+                    "url": "https://res.cloudinary.com/dypujlrm2/image/upload/v1693848043/medium_node_Js_73e9a38652.png",
+                    "hash": "medium_node_Js_73e9a38652",
+                    "mime": "image/png",
+                    "name": "medium_nodeJs.png",
+                    "path": null,
+                    "size": 65.08,
+                    "width": 696,
+                    "height": 750,
+                    "provider_metadata": {
+                      "public_id": "medium_node_Js_73e9a38652",
+                      "resource_type": "image"
+                    }
+                  },
+                  "thumbnail": {
+                    "ext": ".png",
+                    "url": "https://res.cloudinary.com/dypujlrm2/image/upload/v1693848042/thumbnail_node_Js_73e9a38652.png",
+                    "hash": "thumbnail_node_Js_73e9a38652",
+                    "mime": "image/png",
+                    "name": "thumbnail_nodeJs.png",
+                    "path": null,
+                    "size": 11.05,
+                    "width": 145,
+                    "height": 156,
+                    "provider_metadata": {
+                      "public_id": "thumbnail_node_Js_73e9a38652",
+                      "resource_type": "image"
+                    }
+                  }
+                },
+                "hash": "node_Js_73e9a38652",
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 31.53,
+                "url": "https://res.cloudinary.com/dypujlrm2/image/upload/v1693848042/node_Js_73e9a38652.png",
+                "previewUrl": null,
+                "provider": "cloudinary",
+                "provider_metadata": {
+                  "public_id": "node_Js_73e9a38652",
+                  "resource_type": "image"
+                },
+                "createdAt": "2023-09-04T17:20:44.543Z",
+                "updatedAt": "2023-09-04T17:20:44.543Z"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "meta": {
+      "pagination": {
+        "page": 1,
+        "pageSize": 25,
+        "pageCount": 1,
+        "total": 11
+      }
+    }
+  }
