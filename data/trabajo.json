@@ -1,300 +1,146 @@
 {
   "data": [
     {
-      "id": 6,
+      "id": 1,
       "attributes": {
-        "nombre": "Portfolio",
-        "descripcion": "Mi propio portfolio creado con Next 13",
-        "url": "https://ecasportfolio.netlify.app/",
-        "createdAt": "2023-09-09T10:17:29.713Z",
-        "updatedAt": "2023-09-19T12:44:36.204Z",
-        "publishedAt": "2023-09-09T10:17:36.714Z",
-        "resumen": "Mi propio portfolio",
-        "imagen": {
-          "data": {
-            "id": 17,
-            "attributes": {
-              "name": "PortfolioInicioGrabde.jpg",
-              "alternativeText": null,
-              "caption": null,
-              "width": 1898,
-              "height": 855,
-              "formats": {
-                "large": {
-                  "ext": ".jpg",
-                  "url": "https://res.cloudinary.com/dypujlrm2/image/upload/v1694258238/large_Portfolio_Inicio_Grabde_3c75a5025c.jpg",
-                  "hash": "large_Portfolio_Inicio_Grabde_3c75a5025c",
-                  "mime": "image/jpeg",
-                  "name": "large_PortfolioInicioGrabde.jpg",
-                  "path": null,
-                  "size": 37.95,
-                  "width": 1000,
-                  "height": 450,
-                  "provider_metadata": {
-                    "public_id": "large_Portfolio_Inicio_Grabde_3c75a5025c",
-                    "resource_type": "image"
-                  }
-                },
-                "small": {
-                  "ext": ".jpg",
-                  "url": "https://res.cloudinary.com/dypujlrm2/image/upload/v1694258238/small_Portfolio_Inicio_Grabde_3c75a5025c.jpg",
-                  "hash": "small_Portfolio_Inicio_Grabde_3c75a5025c",
-                  "mime": "image/jpeg",
-                  "name": "small_PortfolioInicioGrabde.jpg",
-                  "path": null,
-                  "size": 14.18,
-                  "width": 500,
-                  "height": 225,
-                  "provider_metadata": {
-                    "public_id": "small_Portfolio_Inicio_Grabde_3c75a5025c",
-                    "resource_type": "image"
-                  }
-                },
-                "medium": {
-                  "ext": ".jpg",
-                  "url": "https://res.cloudinary.com/dypujlrm2/image/upload/v1694258238/medium_Portfolio_Inicio_Grabde_3c75a5025c.jpg",
-                  "hash": "medium_Portfolio_Inicio_Grabde_3c75a5025c",
-                  "mime": "image/jpeg",
-                  "name": "medium_PortfolioInicioGrabde.jpg",
-                  "path": null,
-                  "size": 25.66,
-                  "width": 750,
-                  "height": 338,
-                  "provider_metadata": {
-                    "public_id": "medium_Portfolio_Inicio_Grabde_3c75a5025c",
-                    "resource_type": "image"
-                  }
-                },
-                "thumbnail": {
-                  "ext": ".jpg",
-                  "url": "https://res.cloudinary.com/dypujlrm2/image/upload/v1694258237/thumbnail_Portfolio_Inicio_Grabde_3c75a5025c.jpg",
-                  "hash": "thumbnail_Portfolio_Inicio_Grabde_3c75a5025c",
-                  "mime": "image/jpeg",
-                  "name": "thumbnail_PortfolioInicioGrabde.jpg",
-                  "path": null,
-                  "size": 4.76,
-                  "width": 245,
-                  "height": 110,
-                  "provider_metadata": {
-                    "public_id": "thumbnail_Portfolio_Inicio_Grabde_3c75a5025c",
-                    "resource_type": "image"
-                  }
-                }
-              },
-              "hash": "Portfolio_Inicio_Grabde_3c75a5025c",
-              "ext": ".jpg",
-              "mime": "image/jpeg",
-              "size": 91.94,
-              "url": "https://res.cloudinary.com/dypujlrm2/image/upload/v1694258237/Portfolio_Inicio_Grabde_3c75a5025c.jpg",
-              "previewUrl": null,
-              "provider": "cloudinary",
-              "provider_metadata": {
-                "public_id": "Portfolio_Inicio_Grabde_3c75a5025c",
-                "resource_type": "image"
-              },
-              "createdAt": "2023-09-09T10:17:19.354Z",
-              "updatedAt": "2023-09-09T10:17:19.354Z"
-            }
-          }
-        }
+        "empresa": "Fundación Universitaria de Las Palmas",
+        "puesto": "Desarrollador web",
+        "inicio": "enero de 2023",
+        "final": "abril de 2023",
+        "descripcion": "Desarrollo fullstack de aplicación web.",
+        "createdAt": "2023-09-04T18:26:30.407Z",
+        "updatedAt": "2023-09-04T18:26:35.852Z",
+        "publishedAt": "2023-09-04T18:26:35.623Z"
+      }
+    },
+    {
+      "id": 2,
+      "attributes": {
+        "empresa": "SPB Group",
+        "puesto": "Servicio técnico de cliente",
+        "inicio": "diciembre de 2019",
+        "final": "junio de 2022",
+        "descripcion": "Servicio técnico y soporte de cliente",
+        "createdAt": "2023-09-04T18:27:44.478Z",
+        "updatedAt": "2023-09-04T18:27:47.494Z",
+        "publishedAt": "2023-09-04T18:27:47.289Z"
+      }
+    },
+    {
+      "id": 3,
+      "attributes": {
+        "empresa": "Prink España",
+        "puesto": "Técnico de reparaciones",
+        "inicio": "octubre de 2019",
+        "final": "diciembre de 2019",
+        "descripcion": "Técnico de reparación dispositivo móviles",
+        "createdAt": "2023-09-04T18:28:32.211Z",
+        "updatedAt": "2023-09-04T18:28:35.607Z",
+        "publishedAt": "2023-09-04T18:28:35.470Z"
       }
     },
     {
       "id": 4,
       "attributes": {
-        "nombre": "BurgerQueen",
-        "descripcion": "Con BurgerQueen puedes encontrar y valorar las mejores hamburguesas. Los administradores van subiendo las hamburguesas que van probando. Los usuarios pueden puntuar estas hamburguesas para establecer distintos rankings.\n\n",
-        "url": "https://burgerqueens.netlify.app",
-        "createdAt": "2023-09-09T11:02:41.363Z",
-        "updatedAt": "2023-09-18T12:24:17.415Z",
-        "publishedAt": "2023-09-09T11:03:10.377Z",
-        "resumen": "Proyecto final de Bootcamp",
-        "imagen": {
-          "data": {
-            "id": 1,
-            "attributes": {
-              "name": "BQInicioGrande.jpg",
-              "alternativeText": null,
-              "caption": null,
-              "width": 1898,
-              "height": 881,
-              "formats": {
-                "large": {
-                  "ext": ".jpg",
-                  "url": "https://res.cloudinary.com/dypujlrm2/image/upload/v1693747364/large_BQ_Inicio_Grande_0dd3b3f2d9.jpg",
-                  "hash": "large_BQ_Inicio_Grande_0dd3b3f2d9",
-                  "mime": "image/jpeg",
-                  "name": "large_BQInicioGrande.jpg",
-                  "path": null,
-                  "size": 44.41,
-                  "width": 1000,
-                  "height": 464,
-                  "provider_metadata": {
-                    "public_id": "large_BQ_Inicio_Grande_0dd3b3f2d9",
-                    "resource_type": "image"
-                  }
-                },
-                "small": {
-                  "ext": ".jpg",
-                  "url": "https://res.cloudinary.com/dypujlrm2/image/upload/v1693747364/small_BQ_Inicio_Grande_0dd3b3f2d9.jpg",
-                  "hash": "small_BQ_Inicio_Grande_0dd3b3f2d9",
-                  "mime": "image/jpeg",
-                  "name": "small_BQInicioGrande.jpg",
-                  "path": null,
-                  "size": 14.78,
-                  "width": 500,
-                  "height": 232,
-                  "provider_metadata": {
-                    "public_id": "small_BQ_Inicio_Grande_0dd3b3f2d9",
-                    "resource_type": "image"
-                  }
-                },
-                "medium": {
-                  "ext": ".jpg",
-                  "url": "https://res.cloudinary.com/dypujlrm2/image/upload/v1693747364/medium_BQ_Inicio_Grande_0dd3b3f2d9.jpg",
-                  "hash": "medium_BQ_Inicio_Grande_0dd3b3f2d9",
-                  "mime": "image/jpeg",
-                  "name": "medium_BQInicioGrande.jpg",
-                  "path": null,
-                  "size": 29.09,
-                  "width": 750,
-                  "height": 348,
-                  "provider_metadata": {
-                    "public_id": "medium_BQ_Inicio_Grande_0dd3b3f2d9",
-                    "resource_type": "image"
-                  }
-                },
-                "thumbnail": {
-                  "ext": ".jpg",
-                  "url": "https://res.cloudinary.com/dypujlrm2/image/upload/v1693747364/thumbnail_BQ_Inicio_Grande_0dd3b3f2d9.jpg",
-                  "hash": "thumbnail_BQ_Inicio_Grande_0dd3b3f2d9",
-                  "mime": "image/jpeg",
-                  "name": "thumbnail_BQInicioGrande.jpg",
-                  "path": null,
-                  "size": 5.19,
-                  "width": 245,
-                  "height": 114,
-                  "provider_metadata": {
-                    "public_id": "thumbnail_BQ_Inicio_Grande_0dd3b3f2d9",
-                    "resource_type": "image"
-                  }
-                }
-              },
-              "hash": "BQ_Inicio_Grande_0dd3b3f2d9",
-              "ext": ".jpg",
-              "mime": "image/jpeg",
-              "size": 121.93,
-              "url": "https://res.cloudinary.com/dypujlrm2/image/upload/v1693747364/BQ_Inicio_Grande_0dd3b3f2d9.jpg",
-              "previewUrl": null,
-              "provider": "cloudinary",
-              "provider_metadata": {
-                "public_id": "BQ_Inicio_Grande_0dd3b3f2d9",
-                "resource_type": "image"
-              },
-              "createdAt": "2023-09-03T13:22:45.182Z",
-              "updatedAt": "2023-09-09T11:02:33.363Z"
-            }
-          }
-        }
+        "empresa": "Regenersis",
+        "puesto": "Técnico de reparación electrónica",
+        "inicio": "mayo de 2018",
+        "final": "mayo de 2019",
+        "descripcion": "Técnico de reparación dispositivo móviles en servicio técnico de Samsung.",
+        "createdAt": "2023-09-04T18:29:08.835Z",
+        "updatedAt": "2023-09-04T18:29:11.790Z",
+        "publishedAt": "2023-09-04T18:29:11.538Z"
       }
     },
     {
       "id": 5,
       "attributes": {
-        "nombre": "Takarabako",
-        "descripcion": "Con Takarabako los usuarios pueden tener organizada su colección de videojuegos. El usuario busca los juegos que va adquiriendo en una base de datos y puede añadirlos a su colección. Luego puede establecer si estos juegos los está jugando. Y después de haberlos jugado puede indicar el tiempo que le ha durado y darle su puntación. Estas estadísticas se comparten entre todos los usuarios de la aplicación.",
-        "url": "https://takarabako.netlify.app",
-        "createdAt": "2023-09-09T11:04:14.233Z",
-        "updatedAt": "2023-09-18T12:24:28.220Z",
-        "publishedAt": "2023-09-09T11:04:18.020Z",
-        "resumen": "Aplicación desarrollada para la FULP",
-        "imagen": {
-          "data": {
-            "id": 2,
-            "attributes": {
-              "name": "TKInicioGrande.jpg",
-              "alternativeText": null,
-              "caption": null,
-              "width": 1896,
-              "height": 883,
-              "formats": {
-                "large": {
-                  "ext": ".jpg",
-                  "url": "https://res.cloudinary.com/dypujlrm2/image/upload/v1693747618/large_TK_Inicio_Grande_e8235cb772.jpg",
-                  "hash": "large_TK_Inicio_Grande_e8235cb772",
-                  "mime": "image/jpeg",
-                  "name": "large_TKInicioGrande.jpg",
-                  "path": null,
-                  "size": 28.28,
-                  "width": 1000,
-                  "height": 466,
-                  "provider_metadata": {
-                    "public_id": "large_TK_Inicio_Grande_e8235cb772",
-                    "resource_type": "image"
-                  }
-                },
-                "small": {
-                  "ext": ".jpg",
-                  "url": "https://res.cloudinary.com/dypujlrm2/image/upload/v1693747618/small_TK_Inicio_Grande_e8235cb772.jpg",
-                  "hash": "small_TK_Inicio_Grande_e8235cb772",
-                  "mime": "image/jpeg",
-                  "name": "small_TKInicioGrande.jpg",
-                  "path": null,
-                  "size": 10.16,
-                  "width": 500,
-                  "height": 233,
-                  "provider_metadata": {
-                    "public_id": "small_TK_Inicio_Grande_e8235cb772",
-                    "resource_type": "image"
-                  }
-                },
-                "medium": {
-                  "ext": ".jpg",
-                  "url": "https://res.cloudinary.com/dypujlrm2/image/upload/v1693747618/medium_TK_Inicio_Grande_e8235cb772.jpg",
-                  "hash": "medium_TK_Inicio_Grande_e8235cb772",
-                  "mime": "image/jpeg",
-                  "name": "medium_TKInicioGrande.jpg",
-                  "path": null,
-                  "size": 17.81,
-                  "width": 750,
-                  "height": 349,
-                  "provider_metadata": {
-                    "public_id": "medium_TK_Inicio_Grande_e8235cb772",
-                    "resource_type": "image"
-                  }
-                },
-                "thumbnail": {
-                  "ext": ".jpg",
-                  "url": "https://res.cloudinary.com/dypujlrm2/image/upload/v1693747617/thumbnail_TK_Inicio_Grande_e8235cb772.jpg",
-                  "hash": "thumbnail_TK_Inicio_Grande_e8235cb772",
-                  "mime": "image/jpeg",
-                  "name": "thumbnail_TKInicioGrande.jpg",
-                  "path": null,
-                  "size": 3.4,
-                  "width": 245,
-                  "height": 114,
-                  "provider_metadata": {
-                    "public_id": "thumbnail_TK_Inicio_Grande_e8235cb772",
-                    "resource_type": "image"
-                  }
-                }
-              },
-              "hash": "TK_Inicio_Grande_e8235cb772",
-              "ext": ".jpg",
-              "mime": "image/jpeg",
-              "size": 64.91,
-              "url": "https://res.cloudinary.com/dypujlrm2/image/upload/v1693747617/TK_Inicio_Grande_e8235cb772.jpg",
-              "previewUrl": null,
-              "provider": "cloudinary",
-              "provider_metadata": {
-                "public_id": "TK_Inicio_Grande_e8235cb772",
-                "resource_type": "image"
-              },
-              "createdAt": "2023-09-03T13:26:58.715Z",
-              "updatedAt": "2023-09-09T11:03:48.319Z"
-            }
-          }
-        }
+        "empresa": "BQ",
+        "puesto": "Coordinador call center",
+        "inicio": "diciembre de 2013",
+        "final": "febrero de 2017",
+        "descripcion": "Coordinando un equipo de hasta 40 técnicos para la atención telefónica de averías y servicio técnico.",
+        "createdAt": "2023-09-04T18:30:56.871Z",
+        "updatedAt": "2023-09-04T18:31:00.874Z",
+        "publishedAt": "2023-09-04T18:31:00.675Z"
+      }
+    },
+    {
+      "id": 6,
+      "attributes": {
+        "empresa": "K-Habls Franquicias de Tiendas Yoigo",
+        "puesto": "Servicio de atención al cliente",
+        "inicio": "febrero de 2009",
+        "final": "junio de 2012",
+        "descripcion": "Responsable de toda la gestión de la tienda y atención comercial y de incidencias al público.",
+        "createdAt": "2023-09-04T18:31:37.800Z",
+        "updatedAt": "2023-09-04T18:31:41.147Z",
+        "publishedAt": "2023-09-04T18:31:41.005Z"
+      }
+    },
+    {
+      "id": 7,
+      "attributes": {
+        "empresa": "Kuehne + Nagel",
+        "puesto": "Administrativo de logística",
+        "inicio": "septiembre de 2007",
+        "final": "noviembre de 2008",
+        "descripcion": "Llevando todo el proceso de recepción, preparación y expedición.",
+        "createdAt": "2023-09-04T18:32:14.595Z",
+        "updatedAt": "2023-09-04T18:32:18.189Z",
+        "publishedAt": "2023-09-04T18:32:17.990Z"
+      }
+    },
+    {
+      "id": 8,
+      "attributes": {
+        "empresa": "Carrefour",
+        "puesto": "Control de calidad",
+        "inicio": "noviembre de 2006",
+        "final": "junio de 2007",
+        "descripcion": "Administrador de calidad en el departamento de calidad de supply chain de Carrefour.",
+        "createdAt": "2023-09-04T18:33:16.687Z",
+        "updatedAt": "2023-09-04T18:33:19.772Z",
+        "publishedAt": "2023-09-04T18:33:19.558Z"
+      }
+    },
+    {
+      "id": 9,
+      "attributes": {
+        "empresa": "GAME STORES IBERIA",
+        "puesto": "Encargado de tienda",
+        "inicio": "febrero de 2005",
+        "final": "octubre de 2006",
+        "descripcion": "Jefe de sucursal en tienda de videojuegos.",
+        "createdAt": "2023-09-04T18:33:56.293Z",
+        "updatedAt": "2023-09-04T18:33:59.197Z",
+        "publishedAt": "2023-09-04T18:33:59.046Z"
+      }
+    },
+    {
+      "id": 10,
+      "attributes": {
+        "empresa": "Kuoni Destination Management Madrid",
+        "puesto": "Auxiliar administrativo",
+        "inicio": "noviembre de 2004",
+        "final": "enero de 2005",
+        "descripcion": "Departamento de contabilidad (proveedores)",
+        "createdAt": "2023-09-04T18:34:33.567Z",
+        "updatedAt": "2023-09-04T18:34:36.673Z",
+        "publishedAt": "2023-09-04T18:34:36.468Z"
+      }
+    },
+    {
+      "id": 11,
+      "attributes": {
+        "empresa": "Pelayo Mutua de Seguros",
+        "puesto": "Agente de seguros",
+        "inicio": "febrero de 2004",
+        "final": "octubre de 2004",
+        "descripcion": "Atención al público y realizando labores administrativas en Pelayo Muta de Seguros",
+        "createdAt": "2023-09-04T18:35:11.835Z",
+        "updatedAt": "2023-09-04T18:35:14.833Z",
+        "publishedAt": "2023-09-04T18:35:14.684Z"
       }
     }
   ],
@@ -303,7 +149,7 @@
       "page": 1,
       "pageSize": 25,
       "pageCount": 1,
-      "total": 3
+      "total": 11
     }
   }
 }
