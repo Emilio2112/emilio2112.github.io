@@ -1,0 +1,155 @@
+{
+    "data": [
+      {
+        "id": 1,
+        "attributes": {
+          "empresa": "Fundación Universitaria de Las Palmas",
+          "puesto": "Desarrollador web",
+          "inicio": "enero de 2023",
+          "final": "abril de 2023",
+          "descripcion": "Desarrollo fullstack de aplicación web.",
+          "createdAt": "2023-09-04T18:26:30.407Z",
+          "updatedAt": "2023-09-04T18:26:35.852Z",
+          "publishedAt": "2023-09-04T18:26:35.623Z"
+        }
+      },
+      {
+        "id": 2,
+        "attributes": {
+          "empresa": "SPB Group",
+          "puesto": "Servicio técnico de cliente",
+          "inicio": "diciembre de 2019",
+          "final": "junio de 2022",
+          "descripcion": "Servicio técnico y soporte de cliente",
+          "createdAt": "2023-09-04T18:27:44.478Z",
+          "updatedAt": "2023-09-04T18:27:47.494Z",
+          "publishedAt": "2023-09-04T18:27:47.289Z"
+        }
+      },
+      {
+        "id": 3,
+        "attributes": {
+          "empresa": "Prink España",
+          "puesto": "Técnico de reparaciones",
+          "inicio": "octubre de 2019",
+          "final": "diciembre de 2019",
+          "descripcion": "Técnico de reparación dispositivo móviles",
+          "createdAt": "2023-09-04T18:28:32.211Z",
+          "updatedAt": "2023-09-04T18:28:35.607Z",
+          "publishedAt": "2023-09-04T18:28:35.470Z"
+        }
+      },
+      {
+        "id": 4,
+        "attributes": {
+          "empresa": "Regenersis",
+          "puesto": "Técnico de reparación electrónica",
+          "inicio": "mayo de 2018",
+          "final": "mayo de 2019",
+          "descripcion": "Técnico de reparación dispositivo móviles en servicio técnico de Samsung.",
+          "createdAt": "2023-09-04T18:29:08.835Z",
+          "updatedAt": "2023-09-04T18:29:11.790Z",
+          "publishedAt": "2023-09-04T18:29:11.538Z"
+        }
+      },
+      {
+        "id": 5,
+        "attributes": {
+          "empresa": "BQ",
+          "puesto": "Coordinador call center",
+          "inicio": "diciembre de 2013",
+          "final": "febrero de 2017",
+          "descripcion": "Coordinando un equipo de hasta 40 técnicos para la atención telefónica de averías y servicio técnico.",
+          "createdAt": "2023-09-04T18:30:56.871Z",
+          "updatedAt": "2023-09-04T18:31:00.874Z",
+          "publishedAt": "2023-09-04T18:31:00.675Z"
+        }
+      },
+      {
+        "id": 6,
+        "attributes": {
+          "empresa": "K-Habls Franquicias de Tiendas Yoigo",
+          "puesto": "Servicio de atención al cliente",
+          "inicio": "febrero de 2009",
+          "final": "junio de 2012",
+          "descripcion": "Responsable de toda la gestión de la tienda y atención comercial y de incidencias al público.",
+          "createdAt": "2023-09-04T18:31:37.800Z",
+          "updatedAt": "2023-09-04T18:31:41.147Z",
+          "publishedAt": "2023-09-04T18:31:41.005Z"
+        }
+      },
+      {
+        "id": 7,
+        "attributes": {
+          "empresa": "Kuehne + Nagel",
+          "puesto": "Administrativo de logística",
+          "inicio": "septiembre de 2007",
+          "final": "noviembre de 2008",
+          "descripcion": "Llevando todo el proceso de recepción, preparación y expedición.",
+          "createdAt": "2023-09-04T18:32:14.595Z",
+          "updatedAt": "2023-09-04T18:32:18.189Z",
+          "publishedAt": "2023-09-04T18:32:17.990Z"
+        }
+      },
+      {
+        "id": 8,
+        "attributes": {
+          "empresa": "Carrefour",
+          "puesto": "Control de calidad",
+          "inicio": "noviembre de 2006",
+          "final": "junio de 2007",
+          "descripcion": "Administrador de calidad en el departamento de calidad de supply chain de Carrefour.",
+          "createdAt": "2023-09-04T18:33:16.687Z",
+          "updatedAt": "2023-09-04T18:33:19.772Z",
+          "publishedAt": "2023-09-04T18:33:19.558Z"
+        }
+      },
+      {
+        "id": 9,
+        "attributes": {
+          "empresa": "GAME STORES IBERIA",
+          "puesto": "Encargado de tienda",
+          "inicio": "febrero de 2005",
+          "final": "octubre de 2006",
+          "descripcion": "Jefe de sucursal en tienda de videojuegos.",
+          "createdAt": "2023-09-04T18:33:56.293Z",
+          "updatedAt": "2023-09-04T18:33:59.197Z",
+          "publishedAt": "2023-09-04T18:33:59.046Z"
+        }
+      },
+      {
+        "id": 10,
+        "attributes": {
+          "empresa": "Kuoni Destination Management Madrid",
+          "puesto": "Auxiliar administrativo",
+          "inicio": "noviembre de 2004",
+          "final": "enero de 2005",
+          "descripcion": "Departamento de contabilidad (proveedores)",
+          "createdAt": "2023-09-04T18:34:33.567Z",
+          "updatedAt": "2023-09-04T18:34:36.673Z",
+          "publishedAt": "2023-09-04T18:34:36.468Z"
+        }
+      },
+      {
+        "id": 11,
+        "attributes": {
+          "empresa": "Pelayo Mutua de Seguros",
+          "puesto": "Agente de seguros",
+          "inicio": "febrero de 2004",
+          "final": "octubre de 2004",
+          "descripcion": "Atención al público y realizando labores administrativas en Pelayo Muta de Seguros",
+          "createdAt": "2023-09-04T18:35:11.835Z",
+          "updatedAt": "2023-09-04T18:35:14.833Z",
+          "publishedAt": "2023-09-04T18:35:14.684Z"
+        }
+      }
+    ],
+    "meta": {
+      "pagination": {
+        "page": 1,
+        "pageSize": 25,
+        "pageCount": 1,
+        "total": 11
+      }
+    }
+  }
