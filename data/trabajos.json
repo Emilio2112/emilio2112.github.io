@@ -3,6 +3,19 @@
     {
       "id": 1,
       "attributes": {
+        "empresa": "ALSA",
+        "puesto": "Desarrollador fullstck",
+        "inicio": "octubre de 2023",
+        "final": "actualidad",
+        "descripcion": "Desarrollo fullstack con PHP, Codeigniter, Svelte, JS, TS...",
+        "createdAt": "2026-06-03T20:00:00.000Z",
+        "updatedAt": "2026-06-03T20:00:00.000Z",
+        "publishedAt": "2026-06-03T20:00:00.000Z"
+      }
+    },
+    {
+      "id": 2,
+      "attributes": {
         "empresa": "Fundación Universitaria de Las Palmas",
         "puesto": "Desarrollador web",
         "inicio": "enero de 2023",
@@ -14,7 +27,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 3,
       "attributes": {
         "empresa": "SPB Group",
         "puesto": "Servicio técnico de cliente",
@@ -27,7 +40,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 4,
       "attributes": {
         "empresa": "Prink España",
         "puesto": "Técnico de reparaciones",
@@ -40,7 +53,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 5,
       "attributes": {
         "empresa": "Regenersis",
         "puesto": "Técnico de reparación electrónica",
@@ -53,7 +66,7 @@
       }
     },
     {
-      "id": 5,
+      "id": 6,
       "attributes": {
         "empresa": "BQ",
         "puesto": "Coordinador call center",
@@ -66,7 +79,7 @@
       }
     },
     {
-      "id": 6,
+      "id": 7,
       "attributes": {
         "empresa": "K-Habls Franquicias de Tiendas Yoigo",
         "puesto": "Servicio de atención al cliente",
@@ -79,7 +92,7 @@
       }
     },
     {
-      "id": 7,
+      "id": 8,
       "attributes": {
         "empresa": "Kuehne + Nagel",
         "puesto": "Administrativo de logística",
@@ -92,7 +105,7 @@
       }
     },
     {
-      "id": 8,
+      "id": 9,
       "attributes": {
         "empresa": "Carrefour",
         "puesto": "Control de calidad",
@@ -105,7 +118,7 @@
       }
     },
     {
-      "id": 9,
+      "id": 10,
       "attributes": {
         "empresa": "GAME STORES IBERIA",
         "puesto": "Encargado de tienda",
@@ -118,7 +131,7 @@
       }
     },
     {
-      "id": 10,
+      "id": 11,
       "attributes": {
         "empresa": "Kuoni Destination Management Madrid",
         "puesto": "Auxiliar administrativo",
@@ -131,7 +144,7 @@
       }
     },
     {
-      "id": 11,
+      "id": 12,
       "attributes": {
         "empresa": "Pelayo Mutua de Seguros",
         "puesto": "Agente de seguros",
@@ -149,7 +162,7 @@
       "page": 1,
       "pageSize": 25,
       "pageCount": 1,
-      "total": 11
+      "total": 12
     }
   }
 }
