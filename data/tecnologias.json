@@ -695,14 +695,139 @@
             }
           }
         }
+      },
+      [
+  {
+    "id": 13,
+    "attributes": {
+      "nombre": "PHP",
+      "createdAt": "2026-03-01T10:00:00.000Z",
+      "updatedAt": "2026-03-01T10:00:00.000Z",
+      "publishedAt": "2026-03-01T10:00:00.000Z",
+      "imagen": {
+        "data": {
+          "id": 17,
+          "attributes": {
+            "name": "php.png",
+            "alternativeText": null,
+            "caption": null,
+            "width": 512,
+            "height": 512,
+            "formats": {
+              "thumbnail": {
+                "ext": ".png",
+                "url": "https://res.cloudinary.com/dypujlrm2/image/upload/v1715000001/php_logo.png",
+                "mime": "image/png",
+                "name": "thumbnail_php.png",
+                "size": 5.0,
+                "width": 150,
+                "height": 150
+              }
+            },
+            "hash": "php_logo_99a8b7c6",
+            "ext": ".png",
+            "mime": "image/png",
+            "size": 15.0,
+            "url": "https://res.cloudinary.com/dypujlrm2/image/upload/v1715000001/php_logo.png",
+            "previewUrl": null,
+            "provider": "cloudinary",
+            "createdAt": "2026-03-01T10:00:00.000Z",
+            "updatedAt": "2026-03-01T10:00:00.000Z"
+          }
+        }
       }
+    }
+  },
+  {
+    "id": 14,
+    "attributes": {
+      "nombre": "Svelte",
+      "createdAt": "2026-03-01T10:05:00.000Z",
+      "updatedAt": "2026-03-01T10:05:00.000Z",
+      "publishedAt": "2026-03-01T10:05:00.000Z",
+      "imagen": {
+        "data": {
+          "id": 18,
+          "attributes": {
+            "name": "svelte.png",
+            "alternativeText": null,
+            "caption": null,
+            "width": 512,
+            "height": 512,
+            "formats": {
+              "thumbnail": {
+                "ext": ".png",
+                "url": "https://res.cloudinary.com/dypujlrm2/image/upload/v1715000002/svelte_logo.png",
+                "mime": "image/png",
+                "name": "thumbnail_svelte.png",
+                "size": 4.5,
+                "width": 150,
+                "height": 150
+              }
+            },
+            "hash": "svelte_logo_88b7c6d5",
+            "ext": ".png",
+            "mime": "image/png",
+            "size": 12.0,
+            "url": "https://res.cloudinary.com/dypujlrm2/image/upload/v1715000002/svelte_logo.png",
+            "previewUrl": null,
+            "provider": "cloudinary",
+            "createdAt": "2026-03-01T10:05:00.000Z",
+            "updatedAt": "2026-03-01T10:05:00.000Z"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 15,
+    "attributes": {
+      "nombre": "SQL",
+      "createdAt": "2026-03-01T10:10:00.000Z",
+      "updatedAt": "2026-03-01T10:10:00.000Z",
+      "publishedAt": "2026-03-01T10:10:00.000Z",
+      "imagen": {
+        "data": {
+          "id": 19,
+          "attributes": {
+            "name": "sql.png",
+            "alternativeText": null,
+            "caption": null,
+            "width": 512,
+            "height": 512,
+            "formats": {
+              "thumbnail": {
+                "ext": ".png",
+                "url": "https://res.cloudinary.com/dypujlrm2/image/upload/v1715000003/sql_logo.png",
+                "mime": "image/png",
+                "name": "thumbnail_sql.png",
+                "size": 6.0,
+                "width": 150,
+                "height": 150
+              }
+            },
+            "hash": "sql_logo_77c6d5e4",
+            "ext": ".png",
+            "mime": "image/png",
+            "size": 18.0,
+            "url": "https://res.cloudinary.com/dypujlrm2/image/upload/v1715000003/sql_logo.png",
+            "previewUrl": null,
+            "provider": "cloudinary",
+            "createdAt": "2026-03-01T10:10:00.000Z",
+            "updatedAt": "2026-03-01T10:10:00.000Z"
+          }
+        }
+      }
+    }
+  }
+]
     ],
     "meta": {
       "pagination": {
         "page": 1,
         "pageSize": 25,
         "pageCount": 1,
-        "total": 11
+        "total": 15
       }
     }
   }
